@@ -1,0 +1,1 @@
+This file allows you to play a tic tac toe game between yourself and an AI player. The AI Player uses minimax to look ahead at all 255168 ways to win for every possible game. This gives the AI the ability to play perfect and never lose. An expert player will at best tie with it. 
